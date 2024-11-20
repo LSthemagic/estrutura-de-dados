@@ -1,0 +1,41 @@
+# Arquivos e pastas do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos gerados pelo VS Code
+.vscode/
+*.code-workspace
+.output/
+
+# Arquivos binários e objetos compilados
+*.o
+*.obj
+*.exe
+*.out
+
+# Pastas de build ou outputs
+build/
+dist/
+*.a
+*.so
+*.dll
+*.lib
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Dumps ou arquivos de memória
+*.dmp
+*.core
+
+# Exclua testes ou arquivos gerados por debug
+*.test
+*.debug
+
+# Outros arquivos que você pode querer ignorar
+*.lock
+*.bak
+*.orig
